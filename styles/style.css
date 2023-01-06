@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-image: url("../images/donation9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  opacity: 0.8;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.container-items h1 {
+  color: white;
+  font-weight: 800px;
+  font-size: 65px;
+}
+.container-items p {
+  color: white;
+  font-weight: 500px;
+  font-size: 30px;
+}
+.btn-primary {
+  background: #ff5959;
+  border-radius: 5px;
+  width: 160px;
+  height: 56px;
+  margin: 20px 300px;
+  padding: 12px 20px;
+  gap: 8px;
+  color: white;
+  font-size: 20px;
+  font-weight: 400px;
+  justify-content: center;
+}
+
+.section-margin {
+  margin: 80px;
+}
+/* Donate today styles */
+.donate-today {
+  margin: 130px 560px;
+}
+.title {
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 50px;
+  display: flex;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.amount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.amount1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 30px;
+    gap: 20px;
+    margin: 20px;
+    background-color: #707070;
+    padding: 40px;
+}
+.amount2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 30px;
+    gap: 20px;
+    margin: 20px;
+    background-color: #ff5959;
+    padding: 40px;
+}
+
+hr {
+  width: 765px;
+  border: 1px solid #dadada;
+  justify-content: center;
+  margin-left: 50px;
+}
+.containe-sub1 {
+  width: 360px;
+  height: 352px;
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
+}
+.containe-sub2 {
+  width: 360px;
+  height: 352px;
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 5px;
+}
+.containe-sub3 {
+  width: 360px;
+  height: 352px;
+  background: #df4a634b;
+  border-radius: 5px;
+}
+.div-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.lives-depend {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15%;
+  gap: 20px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 20px;
+  color: #707070;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+}
+.last-container {
+  background-color: #db8f8feb;
+  margin: 10% 30%;
+  padding: 50px;
+}
+.box {
+  margin-left: 20%;
+}
+.one {
+  height: 50px;
+  width: 400px;
+  padding-left: 10px;
+}
+.two {
+  height: 50px;
+  width: 100px;
+}

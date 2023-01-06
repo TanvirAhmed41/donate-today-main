@@ -12,10 +12,13 @@
   align-items: center;
   display: flex;
 }
-.container-items h1 {
+.container-items h1{
   color: white;
   font-weight: 800px;
   font-size: 65px;
+  font-family:serif;
+ 
+
 }
 .container-items p {
   color: white;
@@ -148,3 +151,23 @@ h1 {
   height: 50px;
   width: 100px;
 }
+.last-footer{
+    background-color: #121212;
+    height: 300px;
+    width: 100%;
+    padding-left: 10px;
+    color: #dadada;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.lf h2{
+    color: red
+}
+.lf p{
+    color:white
+}
+
